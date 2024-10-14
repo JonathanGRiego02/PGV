@@ -3,7 +3,7 @@ package pgv.hilos;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class TareaDiaria implements Runnable{
+public class TareaDiaria implements Runnable {
     private final String nombre_tarea;
     private int progreso_tarea = 0;
 
